@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
+baseURL = 'https://weiqi.gihub.io/'
+locale = 'zh-Hant'
 title = 'My New Hugo Project'
 theme = 'ananke'

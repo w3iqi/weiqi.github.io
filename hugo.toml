@@ -1,4 +1,4 @@
-baseURL = 'https://weiqi.gihub.io/'
+baseURL = 'https://weiqi.github.io/'
 locale = 'zh-Hant'
 title = 'My New Hugo Project'
 theme = 'ananke'
